@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-### Copas Punya mas Dimas( Bentuk Latihan)
-
 
 **fhnasgf28/fhnasgf28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Hi! 👋 I'm Dimas.
 
 An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
