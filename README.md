@@ -12,7 +12,6 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
 - 🌱 I’m currently learning about cloud technology for back-end apps
 - 💬 Feel free to ask me about web development or JavaScript
 - 📫 How to reach me: assegaffarhan4@gmail.com
-- ⚡ Fun fact: Father of a daughter
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
