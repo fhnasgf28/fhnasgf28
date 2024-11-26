@@ -23,5 +23,3 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
   <br>
 
 </p>
-
-assegaf
