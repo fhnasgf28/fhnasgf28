@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I have the principle "One Day One Code"
+### Learn Code Everyday
 (Bentuk Latihan)
 
 **fhnasgf28/fhnasgf28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
