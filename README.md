@@ -1,27 +1,58 @@
-### Hi there 👋
-### I have the principle "One Day One Code"
-### Learn Code Everyday
-(Bentuk Latihan)
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q3NjA4YTg5YmZmZjQ4MjYzN2MyNzc1NzMyNWM2MmMyYzU0ZjViNyZlcD12MV9pbnRlcm5hbF9naWZzX2J5X2lkJmNsaWNrPXZpZXc/hvRUb7J6cK933fL7hQ/giphy.gif" width="100px" alt="Hello GIF">
+</div>
 
-**fhnasgf28/fhnasgf28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋</h1>
 
+<p align="center">
+  Passionate about clean code and continuous learning! 🚀
+</p>
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+---
 
-I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">Hashmicro</a> to build courses in Backend (odoo)
+### 🌟 My Philosophy: "One Day, One Code" 🌟
 
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@Hashmicro</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: assegaffarhan4@gmail.com
+I believe that consistency is key to mastery. That's why I embrace the principle of **"One Day, One Code"**! 🧑‍💻 Every single day is an opportunity to learn something new, solve a problem, or refine my skills in the vast world of programming. This journey is about constant growth and embracing the daily grind of code.
 
-### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
-  <br>
-  <br>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjE1YmZiYjYxMTZkNjIyMTU3NGUwZTgzNzE2MjA2NmZmYTdkZTU3ZCZlcD12MV9pbnRlcm5hbF9naWZzX2J5X2lkJmNsaWNrPXZpZXc/RkQmtHl9XzM9eXy39k/giphy.gif" width="150px" alt="Coding GIF">
+</p>
 
+---
+
+### 💼 What I Do: Odoo Developer at Hashmicro 🏢
+
+Currently, I'm diving deep into the world of ERP as an **Odoo Developer** at **Hashmicro**. 🛠️ I love crafting robust and efficient solutions that help businesses streamline their operations. From custom module development to system integrations, I'm always up for a challenge that pushes the boundaries of what Odoo can do!
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Odoo-7C218B?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
+</p>
+
+---
+
+### 🌱 Learning & Growing:
+
+* **Learning Code Everyday:** My journey is never-ending. I'm always exploring new technologies, frameworks, and best practices to keep my skills sharp. 📚
+* **Problem Solver:** I enjoy tackling complex problems and finding elegant, scalable solutions. 💡
+* **Collaborator:** I believe in the power of teamwork and open-source contributions. Let's build amazing things together! 🤝
+
+---
+
+### 🔗 Let's Connect!
+
+Feel free to explore my repositories to see what I've been working on. Don't hesitate to reach out if you have any questions or just want to chat about code!
+
+<p align="center">
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/your_linkedin_profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  </p>
+
+<p align="center">
+  Thanks for stopping by! Happy Coding! ✨
 </p>
