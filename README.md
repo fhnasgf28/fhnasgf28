@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q3NjA4YTg5YmZmZjQ4MjYzN2MyNzc1NzMyNWM2MmMyYzU0ZjViNyZlcD12MV9pbnRlcm5hbF9naWZzX2J5X2lkJmNsaWNrPXZpZXc/hvRUb7J6cK933fL7hQ/giphy.gif" width="100px" alt="Hello GIF">
 </div>
 
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hallo Hay There 👋</h1>
 
 <p align="center">
   Passionate about clean code and continuous learning! 🚀
