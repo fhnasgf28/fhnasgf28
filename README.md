@@ -54,5 +54,5 @@ Feel free to explore my repositories to see what I've been working on. Don't hes
   </p>
 
 <p align="center">
-  Thanks for stopping by! Happy Coding! ✨
+  Thanks for stopping by! Happy Coding! chears ✨
 </p>
